@@ -1,5 +1,5 @@
 import React from 'react';
-import { fieldset, Col, Row, Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import { fieldset } from 'reactstrap';
 import AllTheSourdough from './Assets/allTheSourdough.jpg';
 import '../Components/CSS/comingSoon.css';
 import Facebook from './Assets/facebookRound.png'
