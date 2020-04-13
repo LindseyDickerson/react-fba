@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-fba/public/static/css/main.fac3cc71.chunk.css",
-    "main.js": "/react-fba/public/static/js/main.30ac997c.chunk.js",
-    "main.js.map": "/react-fba/public/static/js/main.30ac997c.chunk.js.map",
-    "runtime-main.js": "/react-fba/public/static/js/runtime-main.17d1be0d.js",
-    "runtime-main.js.map": "/react-fba/public/static/js/runtime-main.17d1be0d.js.map",
-    "static/css/2.de424728.chunk.css": "/react-fba/public/static/css/2.de424728.chunk.css",
-    "static/js/2.171a6854.chunk.js": "/react-fba/public/static/js/2.171a6854.chunk.js",
-    "static/js/2.171a6854.chunk.js.map": "/react-fba/public/static/js/2.171a6854.chunk.js.map",
-    "index.html": "/react-fba/public/index.html",
-    "precache-manifest.d5abeb470d2c1c05076dcb25e34f1f57.js": "/react-fba/public/precache-manifest.d5abeb470d2c1c05076dcb25e34f1f57.js",
-    "service-worker.js": "/react-fba/public/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/react-fba/public/static/css/2.de424728.chunk.css.map",
-    "static/css/main.fac3cc71.chunk.css.map": "/react-fba/public/static/css/main.fac3cc71.chunk.css.map",
-    "static/js/2.171a6854.chunk.js.LICENSE.txt": "/react-fba/public/static/js/2.171a6854.chunk.js.LICENSE.txt",
-    "static/media/allTheSourdough.jpg": "/react-fba/public/static/media/allTheSourdough.ab53faae.jpg",
-    "static/media/facebookRound.png": "/react-fba/public/static/media/facebookRound.57a3e72e.png",
-    "static/media/logo.svg": "/react-fba/public/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-fba/static/css/main.fac3cc71.chunk.css",
+    "main.js": "/react-fba/static/js/main.27add5e3.chunk.js",
+    "main.js.map": "/react-fba/static/js/main.27add5e3.chunk.js.map",
+    "runtime-main.js": "/react-fba/static/js/runtime-main.3adb3a7a.js",
+    "runtime-main.js.map": "/react-fba/static/js/runtime-main.3adb3a7a.js.map",
+    "static/css/2.de424728.chunk.css": "/react-fba/static/css/2.de424728.chunk.css",
+    "static/js/2.171a6854.chunk.js": "/react-fba/static/js/2.171a6854.chunk.js",
+    "static/js/2.171a6854.chunk.js.map": "/react-fba/static/js/2.171a6854.chunk.js.map",
+    "index.html": "/react-fba/index.html",
+    "precache-manifest.2d0bf9209945b5e76f58715d011b3728.js": "/react-fba/precache-manifest.2d0bf9209945b5e76f58715d011b3728.js",
+    "service-worker.js": "/react-fba/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-fba/static/css/2.de424728.chunk.css.map",
+    "static/css/main.fac3cc71.chunk.css.map": "/react-fba/static/css/main.fac3cc71.chunk.css.map",
+    "static/js/2.171a6854.chunk.js.LICENSE.txt": "/react-fba/static/js/2.171a6854.chunk.js.LICENSE.txt",
+    "static/media/allTheSourdough.jpg": "/react-fba/static/media/allTheSourdough.ab53faae.jpg",
+    "static/media/facebookRound.png": "/react-fba/static/media/facebookRound.57a3e72e.png",
+    "static/media/logo.svg": "/react-fba/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17d1be0d.js",
+    "static/js/runtime-main.3adb3a7a.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.171a6854.chunk.js",
     "static/css/main.fac3cc71.chunk.css",
-    "static/js/main.30ac997c.chunk.js"
+    "static/js/main.27add5e3.chunk.js"
   ]
 }
